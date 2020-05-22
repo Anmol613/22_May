@@ -30,6 +30,7 @@ public class Scanner_Expression {
 public static void main (String[]args) {
 	
 Scanner s=new Scanner(System.in);
+System.out.println("Changes done");
 	System.out.println("Enter value of x1");
 	int x1=s.nextInt();
 	System.out.println("value of x1="+x1);
